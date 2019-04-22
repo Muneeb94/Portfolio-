@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mizo Arial';
+    src: url('../fonts/MizoArial.woff2') format('woff2'),
+        url('../fonts/MizoArial.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,263 @@
+@media (min-width:320px) and (max-width:767px){
+
+	.inner-page-banner .banner-content {
+	    width: 100%;
+	    padding: 40px 0 110px;
+	}
+
+	.about-us .myTherapy h1 span {
+	    font-size: 40px;
+	    text-transform: capitalize;
+	}
+
+	.about-us .match .video-sec::after {
+	    width: 50px;
+	    height: 50px;
+	    box-shadow: 0px 0px 50px 10px rgba(0,183,213,1);
+	}
+
+.team .team-main {
+    margin-bottom: 30px;
+}
+
+
+.team h2 {
+    font-size: 40px;
+}
+
+.team-main .col-lg-6.col-sm-12 {
+    margin: 0 0 30px;
+}
+
+.btn-menu ul {
+    margin: auto;
+    display: table;
+    float: none;
+}
+
+.btn-menu ul li:first-child button.btn {
+    margin-left: 0;
+}
+	
+
+.main-top-banner .img-fluid {
+    padding: 20px 0px 0px;
+    width: 70%;
+    display: block;
+    margin: 0px auto;
+}
+
+.match .work {
+    width: 100%;
+    padding: 0 0;
+}
+
+
+.for-therapists, .for-members {
+    width: 350px;
+    margin: auto;
+    text-align: center;
+    background: #00b7d5;
+    border-radius: 150px;
+    border-bottom-right-radius: 1px;
+    padding: 20px 0;
+}
+
+.for-therapists h2, .for-members h2 {
+    color: #fff;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+.banner-content .btn {
+    padding: 10px 0px 10px 0px;
+    width: 160px;
+}
+
+.register .banner-content .btn {
+    padding: 7px 0px 7px 0px;
+    width: 150px;
+    font-size: 14px;
+}
+
+.register .banner-content {
+    width: 100%;
+    padding: 50px 0;
+}
+
+.for-members {
+	background: #999999;
+    margin: 30px auto 0 !important;
+}
+
+.contact-main button {
+    margin: 30px 0 20px;
+}
+
+.blog-detail .match {
+    background: none;
+    padding: 60px 0;
+}
+
+.accordian-main h1 {
+    font-size: 40px;
+
+}
+
+.accordian-main .accordion_head, .accordian-main .accordion_head_2 {
+    font-size: 20px;
+}
+
+.accordian-main .accordion_body p, .accordian-main .accordion_body_2 p {
+    font-size: 18px;
+}
+
+.pricing h1, .contact-main h1 {
+    font-size: 40px;
+}
+
+.myTherapy {
+	    width: 100%;
+	    padding: 50px 0px;
+	}
+	
+.match, .licensed, .work, .testimonial, .accordian-main, .contact-main, .pricing, .team  {
+	    padding: 50px 0px;
+	}
+
+.about-us .myTherapy {
+    width: 100%;
+    padding: 80px 0px 20px;
+}
+
+}
+
+
+@media (min-width:320px) and (max-width:500px){
+
+	.team-text {
+    margin: 30px 0 0px;
+}
+
+}
+
+@media (min-width:480px) and (max-width:767px){
+    
+.price-box {
+    box-shadow: 0 10px 40px 0 rgba(62, 57, 107, 0.07), 0 2px 9px 0 rgba(62, 57, 107, 0.06) !important;
+    border-radius: 20px;
+    padding: 50px 40px 50px;
+    background: url(../images/bg-grey.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    margin: 50px 0 0;
+    transition-duration: .5s;
+    background-size: contain;
+}
+
+}
+
+
+@media (min-width:768px) and (max-width:999px){
+
+.pricing {
+    padding: 60px 0;
+}
+
+.team-main .col-lg-6.col-sm-12 {
+    margin: 0 0 30px;
+}
+
+.team .team-main {
+    margin-bottom: 30px;
+}
+
+.about-us .myTherapy h1 span {
+    font-size: 40px;
+}
+
+
+
+.for-therapists, .for-members {
+    width: 450px;
+    margin: auto;
+    text-align: center;
+    background: #00b7d5;
+    border-radius: 150px;
+    border-bottom-right-radius: 1px;
+    padding: 40px 0;
+}
+
+.for-therapists h2, .for-members h2 {
+    color: #fff;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+.banner-content .btn {
+    padding: 10px 0px 10px 0px;
+    width: 160px;
+}
+
+.register .banner-content {
+    width: 100%;
+    padding: 50px 0;
+}
+
+.for-members {
+	    background: #999999;
+    margin: 30px auto 0 !important;
+}
+
+
+
+}
+
+@media (min-width:768px) and (max-width:991px){
+
+.main-top-banner .img-fluid {
+    padding: 0;
+    max-width: 150%;
+    margin: 20px 0 0;
+    width: 150%;
+}
+
+.contact-info-main h1 {
+    font-size: 40px;
+    margin: 50px 0 50px;
+}
+
+
+.match, .licensed, .work, .testimonial, .accordian-main, .contact-main, .pricing, .team  {
+	    padding: 50px 0px;
+	}
+
+.match .work {
+    width: 100%;
+    padding: 50px 0;
+}
+
+
+}
+
+@media (min-width:992px) and (max-width:1199px){
+
+#menu ul li a {
+    font-size: 14px;
+}
+
+.for-therapists, .for-members {
+    width: 600px;
+    padding: 50px 0;
+}
+
+.about-us .myTherapy {
+    padding: 60px 0px;
+}
+
+.about-us .match {
+    padding: 60px 0px;
+}
+
+
+}

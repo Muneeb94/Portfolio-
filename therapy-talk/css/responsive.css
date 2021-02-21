@@ -1,0 +1,304 @@
+@media (max-width:1198px) {
+
+	#menu ul li a {
+    font-size: 14px;   
+}
+	
+}
+@media (max-width:1198px) {
+	.work .image-box::after{
+	display: none;
+	   }
+
+}
+@media (max-width:1024px) {
+
+
+	#menu ul li a {
+    font-size: 14px;   
+	}
+	.banner-content {
+    width: 100%;
+    padding: 80px 0 122px 0px;
+	}
+	.banner-content h1 {
+    font-size: 45px;
+	}
+	.myTherapy {
+    padding: 80px 0px 20px 0px;
+	}
+
+	
+		
+}
+@media (max-width:991px){
+	.notified input[type="email"] {
+    padding: 22px 0px 23px 10px;
+		letter-spacing: 0px;
+	}
+			.myTherapy h1 {
+    font-size: 46px;
+	}
+	.myTherapy h1 span{
+    font-size: 45px;
+	}
+}
+@media (max-width:901px){
+	.signuptoday .bg1 {
+	    padding: 80px 0px 107px 0px;
+	}
+}
+@media (max-width:864px){
+	.signuptoday .bg1 {
+	    padding: 80px 0px 107px 0px;
+	}
+}
+@media (max-width:863px){
+	.signuptoday .bg1 {
+	    padding: 80px 0px 82px 0px;
+	}
+}
+
+@media (max-width:800px){
+	.notified input[type="email"] {
+	    padding: 22px 16px 23px 16px;
+			letter-spacing: 0px;
+		}
+		.subTherapy .inner-box {
+			margin: 15px 0 0 0;
+		}
+				.banner-content {
+	    width: 100%;
+	    padding: 80px 0 195px 0px;
+	}
+		.banner-content h1 {
+	    font-size: 45px;
+		}
+		.signuptoday p {
+		padding: 0 30px 0 30px;
+	}
+	}
+@media (max-width: 769px) {
+		.signuptoday .bg1 {
+	    padding: 80px 0px 82px 0px;
+	}
+}
+
+@media (max-width: 768px) {
+	.notified input[type="email"] {
+    padding: 22px 16px 23px 16px;
+		letter-spacing: 0px;
+	}
+		.myTherapy h1 {
+    font-size: 45px;
+	}
+	.myTherapy h1 span{
+    font-size: 45px;
+	}
+	.signuptoday .bg1 {
+    padding: 80px 0px 82px 0px;
+	}
+	
+}
+@media (max-width: 767px) {
+
+	.match h5 {
+	left:0px;
+	}
+	.notified input[type="email"] {
+    padding: 22px 16px 23px 16px;
+		letter-spacing: 0px;
+	}
+	.subTherapy .inner-box {
+		margin: 20px 0 0 0;
+	}
+
+			.banner-content {
+    width: 100%;
+    padding: 40px 0 250px 0px;
+	}
+	.banner-content h1 {
+    font-size: 40px;
+	}
+			.myTherapy h1 {
+    font-size: 52px;
+	}
+	.myTherapy h1 span{
+    font-size: 52px;
+	}
+	.notified .btn {
+    width: 100%;
+	}
+	.notified p {
+    padding: 0 0 0px 0;
+	}
+}
+
+@media (max-width: 765px) {
+	.subTherapy .inner-box {
+			margin: 10px 0px 10px 0px;
+	             }
+			.banner-content {
+	    width: 100%;
+	    padding: 40px 0 250px 0px;
+	}
+		.banner-content h1 {
+	    font-size: 40px;
+		}
+}
+@media (max-width: 528px){
+	.match h5 {
+		left:-100px;
+	}	
+}
+
+@media (max-width: 486px) {
+	.subTherapy .inner-box {
+		margin: 10px 0px 10px 0px;
+	}
+			.myTherapy h1 {
+    font-size: 46px;
+	}
+	.myTherapy h1 span{
+    font-size: 45px;
+	}
+}
+@media (max-width: 483px) {
+
+
+	.subTherapy .inner-box {
+		margin: 10px 0px 10px 0px;
+	}
+		.banner-content {
+	    width: 100%;
+	    padding: 50px 0 250px 0px;
+	}
+	.banner-content h1 {
+    font-size: 40px;
+	}
+			.myTherapy h1 {
+    font-size: 45px;
+	}
+	.myTherapy h1 span{
+    font-size: 45px;
+	}
+}
+@media (max-width: 480px) {
+
+	
+
+	.notified input[type="email"] {
+    padding: 22px 16px 23px 16px;
+		letter-spacing: 0px;
+	}
+	
+	.signuptoday p {
+	    padding: 0 25px 0 25px;
+	}
+
+	.work .image-box::after{
+	display: none;
+	   }
+		
+		.match h5 {
+		left:0px;
+	}
+		.subTherapy .inner-box {
+			margin: 10px 0px 10px 0px;
+	}
+		.subTherapy .inner-box {
+	    margin: 25px 0px 0px 0px;
+	}
+		.myTherapy {
+	    padding: 0px 0px 0px 0px;
+	}
+		.banner-content {
+	    width: 100%;
+	    padding: 50px 0 250px 0px;
+	}
+		.banner-content h1 {
+	    font-size: 40px;
+		}
+			.myTherapy h1 {
+	    font-size: 45px;
+		}
+		.myTherapy h1 span{
+	    font-size: 45px;
+		}
+}
+@media (max-width:375px){
+	.notified input[type="email"] {
+    padding: 22px 16px 23px 16px;
+		letter-spacing: 0px;
+	}
+	.match h5 {
+	left:0px;
+	}
+		.myTherapy {
+	    padding: 0px 0px 0px 0px;
+	}
+		.btn-menu ul li .btn {
+			float:none;
+		}
+
+		.banner-content {
+	    width: 100%;
+	    padding: 30px 0 300px 0px;
+	}
+		.banner-content h1 {
+	    font-size: 40px;
+		}
+			.myTherapy h1 {
+	    font-size: 40px;
+		}
+		.myTherapy h1 span{
+	    font-size: 40px;
+	}
+
+
+}
+@media (max-width:360px){
+	
+	.notified input[type="email"] {
+    padding: 22px 16px 23px 16px;
+		letter-spacing: 0px;
+	}
+	
+		
+		.match h5 {
+		left:0px;
+	}
+		.signuptoday .btn1{
+		padding: 10px 10px 10px 10px;
+	 
+	}
+		.btn-menu ul {
+	    margin: 10px;
+	}
+	
+	.signuptoday .btn{
+ 
+	padding: 10px 10px 10px 11px;
+	
+	}
+	.myTherapy {
+	    padding: 0px 0px 0px 0px;
+	}
+		.btn-menu ul li .btn {
+			float:none;
+		}
+		.banner-content {   
+		width: 100%;
+	    padding: 40px 0 314px 0px;
+	}
+	.banner-content h1 {
+    font-size: 35px;
+	}
+	.myTherapy h1 {
+    font-size: 40px;
+	}
+	.myTherapy h1 span{
+    font-size: 40px;
+	}
+
+}
